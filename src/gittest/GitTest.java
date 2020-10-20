@@ -18,7 +18,7 @@ public class GitTest {
         // TODO code application logic here
     }
     public static void sayHello(){
-        System.out.println("Hello");
+        System.out.println("Hello World");
     }
     
 }
